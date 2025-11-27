@@ -8,7 +8,7 @@ int main()
 	cout << "Hello World!"; // хелоу ворлд
 
     SetConsoleCP(1251);   // Відновлена версія після checkout
-    SetConsoleOutputCP(1251);
+    SetConsoleOutputCP(1251); //бєбє
 
 	unsigned int C1 = 5, C2 = 11, C3 = 7;
 	unsigned int t1 = 8, t2 = 5, t3 = 6;
