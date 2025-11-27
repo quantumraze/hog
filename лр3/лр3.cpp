@@ -5,6 +5,8 @@ using namespace std;
 
 int main()
 {
+	cout << "Hello World!"; // хелоу ворлд
+
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
 
